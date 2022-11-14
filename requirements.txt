@@ -1,0 +1,16 @@
+nonebot~=1.8.0
+Pillow~=9.1.1
+pytz~=2022.6
+zhconv~=1.4.3
+aiocqhttp~=1.4.3
+matplotlib~=3.2.2
+lxml~=4.9.1
+requests~=2.25.0
+beautifulsoup4~=4.9.3
+numpy~=1.22.4
+pygtrie~=2.3.3
+fuzzywuzzy~=0.18.0
+cloudscraper~=1.2.64
+aiohttp~=3.8.3
+beautiful~=0.0.2
+sqlitedict~=2.0.0
